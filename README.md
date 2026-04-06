@@ -1,4 +1,4 @@
-# 🎵 Letras de Música App
+# 🎵 Aplicação de Letras de Música
 
 ## 📖 Descrição
 Aplicativo em **Python com Streamlit** que permite buscar letras de músicas, traduzir para diversos idiomas e visualizar informações sobre o artista de forma simples e interativa.  
